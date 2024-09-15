@@ -1,0 +1,29 @@
+.password-generator {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  input[type="number"] {
+    width: 50px;
+  }
+  
+  .checkboxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  label {
+    margin: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #password {
+    font-size: 20px;
+    font-weight: bold;
+  }
